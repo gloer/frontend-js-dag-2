@@ -1,0 +1,16 @@
+
+body {
+    margin: 0;
+    font-family: Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: darkblue;
+}
+
+#txtKlikk {
+    font-size: 200px;
+    color: white;
+    user-select: none;
+}
